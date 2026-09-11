@@ -6,6 +6,7 @@ Il programma chiede all’utente:
 * la propria età
 * se possiede già un biglietto
 In base alle informazioni inserite, il programma comunica se l’utente può entrare e il prezzo del biglietto.
+
 Con questo progetto ho utilizzato:
 * input()
 * variabili
