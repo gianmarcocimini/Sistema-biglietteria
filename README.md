@@ -1,5 +1,6 @@
 # Sistema-biglietteria
 Primo progetto Python: sistema semplice per la gestione dei biglietti 
+
 Cosa fa
 Il programma chiede all’utente:
 * la propria età
@@ -13,5 +14,6 @@ Con questo progetto ho utilizzato:
 * else
 * operatori di confronto
 * operatori logici
+
 Tecnologie
 * Python
